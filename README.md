@@ -13,6 +13,6 @@ Este projeto foi construido em sala de aula na disciplina - Programação WEB BA
 
 ## Contato
 
-Adriano daniek - adrianoedaniel@email.com
+Adriano Daniel - adrianoedaniel@email.com
 
 
