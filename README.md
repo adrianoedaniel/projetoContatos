@@ -1,6 +1,4 @@
-# Título do Projeto
-
-Projeto Contatos
+# Título do Projeto : Projeto Contatos
 
 ## Instalação
 
